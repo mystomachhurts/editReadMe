@@ -14,12 +14,22 @@ Beyond technology, I challenge myself with creative pursuits such as learning an
 
 ## :hammer_and_wrench: Skills
 
+• DrRacket  
+• Creative Writing  
+• Java  
+• Film Direction   
+• Video Editing  
+• Python  
+• Graphic Design 
+• 3D Modeling
+•
 
 
 
 ## :trophy: Achievements
-
+• H
 
 
 
 ## :goal_net: Goals
+•
