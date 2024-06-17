@@ -12,3 +12,14 @@ Beyond technology, I challenge myself with creative pursuits such as learning an
 
 
 
+## :hammer_and_wrench: Skills
+
+
+
+
+## :trophy: Achievements
+
+
+
+
+## :goal_net: Goals
