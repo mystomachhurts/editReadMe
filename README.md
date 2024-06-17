@@ -1,4 +1,4 @@
-# AboutMe:wave:
+# AboutMe :wave:
 Hello,
 
 I am Abdulsalam Tahlil, a student pursuing my Bachelor's in **Computer Science** at Wentworth Institute of Technology, and I will graduate in 2027.  
