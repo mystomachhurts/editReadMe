@@ -28,12 +28,16 @@ Beyond technology, I challenge myself with creative pursuits such as learning an
 
 ## :trophy: Accomplishments:
 • Was mentored and Taught DrRacket by Digital Ready
+
 • Made a janky voice assistant and its only purpose was to play 2 songs
+
 • Made a text story game
 
 
 
 ## :goal_net: Goals
 • Create a full fledged video game
+
 • Be able to flesh out my voice assistant and have it be able to respond faster with more information
+
 • Learn Java & C++ completely
